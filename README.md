@@ -19,17 +19,21 @@ To set up the project locally, follow these steps:
 
     ```bash
     git clone https://github.com/JayYeung/oceans-equations
-    cd project2
-
     ```
 
-2. **Install Dependencies**
+2. **Navigate to the root directory**
+
+    ```bash
+    cd oceans-equations
+    ```
+
+3. **Install Dependencies**
 
     ```bash
      npm install
     ```
 
-3. **Run the Application Locally**
+4. **Run the Application Locally**
     ```bash
     npm run dev
     ```
